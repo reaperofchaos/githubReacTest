@@ -1,10 +1,12 @@
 import React from 'react';
+import ProjectList from './components/projects.js'
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">      
+      <ProjectList></ProjectList>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
