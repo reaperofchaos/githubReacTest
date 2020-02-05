@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/githubReacTest/static/css/main.d1b05096.chunk.css",
+    "main.js": "/githubReacTest/static/js/main.60633138.chunk.js",
+    "main.js.map": "/githubReacTest/static/js/main.60633138.chunk.js.map",
+    "runtime-main.js": "/githubReacTest/static/js/runtime-main.a1f98e49.js",
+    "runtime-main.js.map": "/githubReacTest/static/js/runtime-main.a1f98e49.js.map",
+    "static/js/2.72592f31.chunk.js": "/githubReacTest/static/js/2.72592f31.chunk.js",
+    "static/js/2.72592f31.chunk.js.map": "/githubReacTest/static/js/2.72592f31.chunk.js.map",
+    "index.html": "/githubReacTest/index.html",
+    "precache-manifest.7abdf96f367dbf986afd530c14090f41.js": "/githubReacTest/precache-manifest.7abdf96f367dbf986afd530c14090f41.js",
+    "service-worker.js": "/githubReacTest/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/githubReacTest/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.72592f31.chunk.js.LICENSE.txt": "/githubReacTest/static/js/2.72592f31.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/githubReacTest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f98e49.js",
+    "static/js/2.72592f31.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.60633138.chunk.js"
+  ]
+}
